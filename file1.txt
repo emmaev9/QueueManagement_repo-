@@ -1,0 +1,302 @@
+
+Time: 0
+Waiting clients: (3,4,3)(2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 1
+Waiting clients: (3,4,3)(2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 2
+Waiting clients: (3,4,3)(2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 3
+Waiting clients: (3,4,3)(2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 4
+Waiting clients: (2,9,2)(1,19,3)(0,25,2)
+Queue 0: [] current: (3,4,3)
+Queue 1: closed queue
+
+Time: 5
+Waiting clients: (2,9,2)(1,19,3)(0,25,2)
+Queue 0: [] current: (3,4,2)
+Queue 1: closed queue
+
+Time: 6
+Waiting clients: (2,9,2)(1,19,3)(0,25,2)
+Queue 0: [] current: (3,4,1)
+Queue 1: closed queue
+
+Time: 7
+Waiting clients: (2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 8
+Waiting clients: (2,9,2)(1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 9
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: [] current: (2,9,2)
+Queue 1: closed queue
+
+Time: 10
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: [] current: (2,9,1)
+Queue 1: closed queue
+
+Time: 11
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 12
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 13
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 14
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 15
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 16
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 17
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 18
+Waiting clients: (1,19,3)(0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 19
+Waiting clients: (0,25,2)
+Queue 0: [] current: (1,19,3)
+Queue 1: closed queue
+
+Time: 20
+Waiting clients: (0,25,2)
+Queue 0: [] current: (1,19,2)
+Queue 1: closed queue
+
+Time: 21
+Waiting clients: (0,25,2)
+Queue 0: [] current: (1,19,1)
+Queue 1: closed queue
+
+Time: 22
+Waiting clients: (0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 23
+Waiting clients: (0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 24
+Waiting clients: (0,25,2)
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 25
+Waiting clients: 
+Queue 0: [] current: (0,25,2)
+Queue 1: closed queue
+
+Time: 26
+Waiting clients: 
+Queue 0: [] current: (0,25,1)
+Queue 1: closed queue
+
+Time: 27
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 28
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 29
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 30
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 31
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 32
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 33
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 34
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 35
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 36
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 37
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 38
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 39
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 40
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 41
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 42
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 43
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 44
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 45
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 46
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 47
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 48
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 49
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 50
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 51
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 52
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 53
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 54
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 55
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 56
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 57
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 58
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+
+Time: 59
+Waiting clients: 
+Queue 0: closed queue
+Queue 1: closed queue
+Average service time: 2.5
+Peak time: 4
