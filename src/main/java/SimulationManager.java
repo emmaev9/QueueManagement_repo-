@@ -18,7 +18,7 @@ public class SimulationManager implements Runnable {
     public int numberOfQueues = 3;
     public int numberOfClients = 10;
     public double averageTime = 0;
-    private File fOut = new File("fileOut.txt");
+    private File fOut = new File("file3.txt");
     public float totalServiceTime = 0;
     public int peakTime = 0, peakNumberOfClients = 0;
     public static volatile int currentTime = 0;
